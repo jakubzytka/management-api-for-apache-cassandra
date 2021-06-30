@@ -33,7 +33,7 @@ public class RpcStatement implements RpcStatementShim
     }
 
     @Override
-    public void validate(ClientState clientState)
+    public void validate(QueryState queryState)
     {
 
     }
